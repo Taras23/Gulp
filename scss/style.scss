@@ -1,0 +1,15 @@
+$color: fff;
+body{
+    background: $color;
+    h1{
+        color: rebeccapurple;
+    }
+}
+a{
+    transition: all 0.5s ease-in-out;
+}
+ul{
+    li{
+        display: block;
+    }
+}
